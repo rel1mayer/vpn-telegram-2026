@@ -18,13 +18,17 @@
 
 This repository provides an up-to-date catalog of **316+ verified Telegram VPN bots** operating with advanced anti-censorship protocols (**VLESS Reality**, **Shadowsocks 2022**, **TUIC**, **Hysteria 2**) capable of bypassing strict Deep Packet Inspection (DPI) blocks in Russia and other restricted network environments.
 
+---
+
 ## 🏆 TOP-5 Verified VPN Bots
 
-1. **⚡️ RedCat VPN** — Ultra-fast VLESS Reality service with zero-friction onboarding.
-2. **🛡 IronShield VPN** — Privacy-oriented provider with Swiss infrastructure and WireGuard/Shadowsocks support.
-3. **🚀 HyperSpeed 4K** — Optimized for high-bitrate YouTube 4K 60fps streaming and Discord voice chat.
-4. **🪐 CyberGhost Bot** — Advanced traffic camouflage mimicking typical HTTPS browsing sessions.
-5. **🦊 FoxNet Reality** — Intuitive bot with 1-click setup for iOS, Android, Windows, and macOS.
+| # | Service | Key Feature | Protocols | Trial | Price | Link |
+| :-: | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | **⚡️ RedCat VPN** | Ultra-fast VLESS Reality service with instant setup | `VLESS, Reality, Trojan` | 🎁 3 days free | from 120 ₽/mo | [Connect](https://t.me/example_redcat_bot?start=hub) |
+| 2 | **🛡 IronShield VPN** | Maximum privacy and Swiss infrastructure | `ShadowSocks 2022, WireGuard` | None | from 210 ₽/mo | [Connect](https://t.me/example_ironshield_bot?start=hub) |
+| 3 | **🚀 HyperSpeed 4K** | Optimized for YouTube 4K 60fps and Discord | `VLESS Reality, TUIC, Hysteria 2` | 🎁 24h test | from 150 ₽/mo | [Connect](https://t.me/example_hyperspeed_bot?start=hub) |
+| 4 | **🪐 CyberGhost Bot** | Traffic obfuscation mimicking HTTPS browsing | `VLESS Reality, VMess, gRPC` | 🎁 7 days free | from 170 ₽/mo | [Connect](https://t.me/example_cyberghost_bot?start=hub) |
+| 5 | **🦊 FoxNet Reality** | Clean UI with 1-click config imports | `VLESS Reality, Shadowsocks` | 🎁 3 days free | from 110 ₽/mo | [Connect](https://t.me/example_foxnet_bot?start=hub) |
 
 👉 *Launch [@vpnhab_bot](https://t.me/vpnhab_bot?start=github_en) to explore all 316 bots with filters and free trial options.*
 
@@ -32,15 +36,22 @@ This repository provides an up-to-date catalog of **316+ verified Telegram VPN b
 
 ## 📱 Quick Setup (iOS, Android, PC)
 
-1. **Install a Client App:**
-   - **iOS:** Happ, Streisand, V2Box, Shadowrocket.
-   - **Android:** v2rayNG, Happ, NekoBox.
-   - **Windows / macOS:** v2rayN, Nekoray, Happ, FoXray.
-2. **Retrieve Connection Key:**
-   - Start any bot from the catalog or through [@vpnhab_bot](https://t.me/vpnhab_bot?start=github_en).
-   - Click "Connect" or "Free Trial" to get your `vless://` configuration URL.
-3. **Import & Connect:**
-   - Paste the link into the client app and hit Connect.
+### Step 1: Install a Client App
+
+- **iOS (iPhone, iPad):** Happ, Streisand, V2Box, Shadowrocket, FoXray
+- **Android:** v2rayNG, Happ, NekoBox, Clash Meta
+- **Windows:** v2rayN, Nekoray, Husi, Happ
+- **macOS:** V2Box, Streisand, Happ, FoXray
+
+### Step 2: Retrieve Key from Bot
+
+1. Open any bot from the catalog or through **[@vpnhab_bot](https://t.me/vpnhab_bot?start=github_en)**.
+2. Click "Connect" or "Free Trial" to receive your configuration key (`vless://`, `ss://`, `vmess://`).
+
+### Step 3: Import & Connect
+
+1. Copy the key and open your client app.
+2. Import configuration from clipboard and tap **Connect**.
 
 ---
 

@@ -1,9 +1,9 @@
 # 🌐 Рабочие VPN в Telegram 2026: Каталог и Рейтинг проверенных ботов для России
 
-[![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-@vpnhab_bot-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vpnhab_bot?start=github)
-[![Verified Bots](https://img.shields.io/badge/Проверено-316_ботов-brightgreen?style=for-the-badge)](https://t.me/vpnhab_bot?start=github)
-[![Updated](https://img.shields.io/badge/Обновлено-Ноябрь_2026-blue?style=for-the-badge)](https://t.me/vpnhab_bot?start=github)
-[![Protocols](https://img.shields.io/badge/Протоколы-VLESS_Reality_|_WireGuard-orange?style=for-the-badge)](https://t.me/vpnhab_bot?start=github)
+[![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-@vpnhab_bot-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vpnhab_bot?start=github) 
+[![Verified Bots](https://img.shields.io/badge/Проверено-316_ботов-brightgreen?style=for-the-badge)](https://t.me/vpnhab_bot?start=github) 
+[![Updated](https://img.shields.io/badge/Обновлено-Ноябрь_2026-blue?style=for-the-badge)](https://t.me/vpnhab_bot?start=github) 
+[![Protocols](https://img.shields.io/badge/Протоколы-VLESS_Reality_|_WireGuard-orange?style=for-the-badge)](https://t.me/vpnhab_bot?start=github) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
 [English Version](README_EN.md) | [Запустить Telegram-бота](https://t.me/vpnhab_bot?start=github) | [Добавить своего бота](CONTRIBUTING.md)
@@ -34,7 +34,6 @@
 
 | # | Сервис | Особенности | Протоколы | Тестовый период | Стоимость | Подключение |
 | :-: | :--- | :--- | :--- | :--- | :--- | :--- |
-
 | 1 | **⚡️ RedCat VPN** | Ультрабыстрый VPN на современных протоколах VLESS Reality. Мгновенное подключение и полный обход блокировок Роскомнадзора. | `VLESS, Reality, Trojan` | 🎁 3 дня бесплатно | от 120 ₽/мес | [Подключить](https://t.me/example_redcat_bot?start=hub) |
 | 2 | **🛡 IronShield VPN** | Максимальная приватность и защита данных со швейцарскими серверами. Идеально подходит для онлайн-банкинга и безопасной работы. | `ShadowSocks 2022, WireGuard` | Нет | от 210 ₽/мес | [Подключить](https://t.me/example_ironshield_bot?start=hub) |
 | 3 | **🚀 HyperSpeed 4K** | Специально оптимизирован под YouTube в 4K 60FPS и Discord. Выделенные гигабитные каналы без задержек и троттлинга. | `VLESS Reality, TUIC, Hysteria 2` | 🎁 24 часа тест | от 150 ₽/мес | [Подключить](https://t.me/example_hyperspeed_bot?start=hub) |
@@ -47,24 +46,23 @@
 
 Серверы с пропускной способностью 10 Гбит/с и минимальным пингом. Оптимизированы для просмотра тяжелого 4K/60FPS видео, стримов Twitch и голосовой связи Discord без задержек:
 
-| Бот | Протоколы | Стоимость | Тест | Ссылка |
-| :--- | :--- | :--- | :--- | :--- |
-
-| **⚡️ RedCat VPN** | `VLESS, Reality, Trojan` | от 120 ₽/мес | 🎁 3 дня бесплатно | [Открыть](https://t.me/example_redcat_bot?start=hub) |
-| **🛡 IronShield VPN** | `ShadowSocks 2022, WireGuard` | от 210 ₽/мес | Нет | [Открыть](https://t.me/example_ironshield_bot?start=hub) |
-| **🚀 HyperSpeed 4K** | `VLESS Reality, TUIC, Hysteria 2` | от 150 ₽/мес | 🎁 24 часа тест | [Открыть](https://t.me/example_hyperspeed_bot?start=hub) |
-| **🪐 CyberGhost Bot** | `VLESS Reality, VMess, gRPC` | от 170 ₽/мес | 🎁 7 дней бесплатно | [Открыть](https://t.me/example_cyberghost_bot?start=hub) |
-| **🌐 Quantum Connect** | `VLESS Reality, Trojan, Hysteria 2` | от 145 ₽/мес | 🎁 3 дня бесплатно | [Открыть](https://t.me/example_quantum_bot?start=hub) |
-| **🛡 NordTunnel Bot** | `VLESS Reality, WireGuard, ShadowSocks 2022` | от 250 ₽/мес | Нет | [Открыть](https://t.me/example_nordtunnel_bot?start=hub) |
-| **@AbdalV2rayBot** | `V2Ray, VLESS, Reality` | от 170 ₽/мес | 🎁 5 дней бесплатно | [Открыть](https://t.me/AbdalV2rayBot) |
-| **@abs_vpnbot** | `V2Ray, VLESS, Reality` | от 150 ₽/мес | 🎁 2 дня бесплатно | [Открыть](https://t.me/abs_vpnbot) |
-| **@AbsCVPNbot** | `VLESS Reality, VMess` | от 170 ₽/мес | 🎁 5 дней бесплатно | [Открыть](https://t.me/AbsCVPNbot) |
-| **@addvless_bot** | `VLESS Reality, Trojan` | от 99 ₽/мес | 🎁 3 дня бесплатно | [Открыть](https://t.me/addvless_bot) |
-| **@Adrenaline_VPN_bot** | `VLESS, Reality, Trojan` | от 150 ₽/мес | 🎁 2 дня бесплатно | [Открыть](https://t.me/Adrenaline_VPN_bot) |
-| **@adrinaliainbot** | `VLESS, TUIC, Hysteria 2` | от 170 ₽/мес | 🎁 5 дней бесплатно | [Открыть](https://t.me/adrinaliainbot) |
-| **@AegisVPN_bot** | `WireGuard, Outline` | от 170 ₽/мес | 🎁 5 дней бесплатно | [Открыть](https://t.me/AegisVPN_bot) |
-| **@AegisVPN_Robot** | `VLESS Reality, VMess` | от 170 ₽/мес | 🎁 5 дней бесплатно | [Открыть](https://t.me/AegisVPN_Robot) |
-| **@aerivpn_bot** | `V2Ray, VLESS, Reality` | от 240 ₽/мес | Нет | [Открыть](https://t.me/aerivpn_bot) |
+| # | Бот | Протоколы | Стоимость | Тест | Ссылка |
+| :-: | :--- | :--- | :--- | :--- | :--- |
+| 1 | **⚡️ RedCat VPN** | `VLESS, Reality, Trojan` | от 120 ₽/мес | 🎁 3 дня бесплатно | [Открыть](https://t.me/example_redcat_bot?start=hub) |
+| 2 | **🛡 IronShield VPN** | `ShadowSocks 2022, WireGuard` | от 210 ₽/мес | Нет | [Открыть](https://t.me/example_ironshield_bot?start=hub) |
+| 3 | **🚀 HyperSpeed 4K** | `VLESS Reality, TUIC, Hysteria 2` | от 150 ₽/мес | 🎁 24 часа тест | [Открыть](https://t.me/example_hyperspeed_bot?start=hub) |
+| 4 | **🪐 CyberGhost Bot** | `VLESS Reality, VMess, gRPC` | от 170 ₽/мес | 🎁 7 дней бесплатно | [Открыть](https://t.me/example_cyberghost_bot?start=hub) |
+| 5 | **🌐 Quantum Connect** | `VLESS Reality, Trojan, Hysteria 2` | от 145 ₽/мес | 🎁 3 дня бесплатно | [Открыть](https://t.me/example_quantum_bot?start=hub) |
+| 6 | **🛡 NordTunnel Bot** | `VLESS Reality, WireGuard, ShadowSocks 2022` | от 250 ₽/мес | Нет | [Открыть](https://t.me/example_nordtunnel_bot?start=hub) |
+| 7 | **@AbdalV2rayBot** | `V2Ray, VLESS, Reality` | от 170 ₽/мес | 🎁 5 дней бесплатно | [Открыть](https://t.me/AbdalV2rayBot) |
+| 8 | **@abs_vpnbot** | `V2Ray, VLESS, Reality` | от 150 ₽/мес | 🎁 2 дня бесплатно | [Открыть](https://t.me/abs_vpnbot) |
+| 9 | **@AbsCVPNbot** | `VLESS Reality, VMess` | от 170 ₽/мес | 🎁 5 дней бесплатно | [Открыть](https://t.me/AbsCVPNbot) |
+| 10 | **@addvless_bot** | `VLESS Reality, Trojan` | от 99 ₽/мес | 🎁 3 дня бесплатно | [Открыть](https://t.me/addvless_bot) |
+| 11 | **@Adrenaline_VPN_bot** | `VLESS, Reality, Trojan` | от 150 ₽/мес | 🎁 2 дня бесплатно | [Открыть](https://t.me/Adrenaline_VPN_bot) |
+| 12 | **@adrinaliainbot** | `VLESS, TUIC, Hysteria 2` | от 170 ₽/мес | 🎁 5 дней бесплатно | [Открыть](https://t.me/adrinaliainbot) |
+| 13 | **@AegisVPN_bot** | `WireGuard, Outline` | от 170 ₽/мес | 🎁 5 дней бесплатно | [Открыть](https://t.me/AegisVPN_bot) |
+| 14 | **@AegisVPN_Robot** | `VLESS Reality, VMess` | от 170 ₽/мес | 🎁 5 дней бесплатно | [Открыть](https://t.me/AegisVPN_Robot) |
+| 15 | **@aerivpn_bot** | `V2Ray, VLESS, Reality` | от 240 ₽/мес | Нет | [Открыть](https://t.me/aerivpn_bot) |
 
 *👉 Еще более 200 скоростных сервисов для стриминга доступны в боте [@vpnhab_bot](https://t.me/vpnhab_bot?start=github_yt).*
 
@@ -74,24 +72,23 @@
 
 Сервисы, предоставляющие бесплатный пробный период без обязательной привязки банковских карт:
 
-| Бот | Пробный период | Протоколы | Цена после теста | Ссылка |
-| :--- | :--- | :--- | :--- | :--- |
-
-| **⚡️ RedCat VPN** | 🎁 3 дня бесплатно | `VLESS, Reality, Trojan` | от 120 ₽/мес | [Протестировать](https://t.me/example_redcat_bot?start=hub) |
-| **🚀 HyperSpeed 4K** | 🎁 24 часа тест | `VLESS Reality, TUIC, Hysteria 2` | от 150 ₽/мес | [Протестировать](https://t.me/example_hyperspeed_bot?start=hub) |
-| **🪐 CyberGhost Bot** | 🎁 7 дней бесплатно | `VLESS Reality, VMess, gRPC` | от 170 ₽/мес | [Протестировать](https://t.me/example_cyberghost_bot?start=hub) |
-| **🦊 FoxNet Reality** | 🎁 3 дня бесплатно | `VLESS Reality, Shadowsocks` | от 110 ₽/мес | [Протестировать](https://t.me/example_foxnet_bot?start=hub) |
-| **🔑 KeyGate Proxy** | 🎁 2 дня бесплатно | `Shadowsocks, Outline` | от 190 ₽/мес | [Протестировать](https://t.me/example_keygate_bot?start=hub) |
-| **🌐 Quantum Connect** | 🎁 3 дня бесплатно | `VLESS Reality, Trojan, Hysteria 2` | от 145 ₽/мес | [Протестировать](https://t.me/example_quantum_bot?start=hub) |
-| **@AbdalV2rayBot** | 🎁 5 дней бесплатно | `V2Ray, VLESS, Reality` | от 170 ₽/мес | [Протестировать](https://t.me/AbdalV2rayBot) |
-| **@abs_vpnbot** | 🎁 2 дня бесплатно | `V2Ray, VLESS, Reality` | от 150 ₽/мес | [Протестировать](https://t.me/abs_vpnbot) |
-| **@AbsCVPNbot** | 🎁 5 дней бесплатно | `VLESS Reality, VMess` | от 170 ₽/мес | [Протестировать](https://t.me/AbsCVPNbot) |
-| **@addvless_bot** | 🎁 3 дня бесплатно | `VLESS Reality, Trojan` | от 99 ₽/мес | [Протестировать](https://t.me/addvless_bot) |
-| **@Adrenaline_VPN_bot** | 🎁 2 дня бесплатно | `VLESS, Reality, Trojan` | от 150 ₽/мес | [Протестировать](https://t.me/Adrenaline_VPN_bot) |
-| **@adrinaliainbot** | 🎁 5 дней бесплатно | `VLESS, TUIC, Hysteria 2` | от 170 ₽/мес | [Протестировать](https://t.me/adrinaliainbot) |
-| **@AegisVPN_bot** | 🎁 5 дней бесплатно | `WireGuard, Outline` | от 170 ₽/мес | [Протестировать](https://t.me/AegisVPN_bot) |
-| **@AegisVPN_Robot** | 🎁 5 дней бесплатно | `VLESS Reality, VMess` | от 170 ₽/мес | [Протестировать](https://t.me/AegisVPN_Robot) |
-| **@Aether_VPN_bot** | 🎁 3 дня бесплатно | `VLESS, TUIC, Hysteria 2` | от 210 ₽/мес | [Протестировать](https://t.me/Aether_VPN_bot) |
+| # | Бот | Пробный период | Протоколы | Цена после теста | Ссылка |
+| :-: | :--- | :--- | :--- | :--- | :--- |
+| 1 | **⚡️ RedCat VPN** | 🎁 3 дня бесплатно | `VLESS, Reality, Trojan` | от 120 ₽/мес | [Протестировать](https://t.me/example_redcat_bot?start=hub) |
+| 2 | **🚀 HyperSpeed 4K** | 🎁 24 часа тест | `VLESS Reality, TUIC, Hysteria 2` | от 150 ₽/мес | [Протестировать](https://t.me/example_hyperspeed_bot?start=hub) |
+| 3 | **🪐 CyberGhost Bot** | 🎁 7 дней бесплатно | `VLESS Reality, VMess, gRPC` | от 170 ₽/мес | [Протестировать](https://t.me/example_cyberghost_bot?start=hub) |
+| 4 | **🦊 FoxNet Reality** | 🎁 3 дня бесплатно | `VLESS Reality, Shadowsocks` | от 110 ₽/мес | [Протестировать](https://t.me/example_foxnet_bot?start=hub) |
+| 5 | **🔑 KeyGate Proxy** | 🎁 2 дня бесплатно | `Shadowsocks, Outline` | от 190 ₽/мес | [Протестировать](https://t.me/example_keygate_bot?start=hub) |
+| 6 | **🌐 Quantum Connect** | 🎁 3 дня бесплатно | `VLESS Reality, Trojan, Hysteria 2` | от 145 ₽/мес | [Протестировать](https://t.me/example_quantum_bot?start=hub) |
+| 7 | **@AbdalV2rayBot** | 🎁 5 дней бесплатно | `V2Ray, VLESS, Reality` | от 170 ₽/мес | [Протестировать](https://t.me/AbdalV2rayBot) |
+| 8 | **@abs_vpnbot** | 🎁 2 дня бесплатно | `V2Ray, VLESS, Reality` | от 150 ₽/мес | [Протестировать](https://t.me/abs_vpnbot) |
+| 9 | **@AbsCVPNbot** | 🎁 5 дней бесплатно | `VLESS Reality, VMess` | от 170 ₽/мес | [Протестировать](https://t.me/AbsCVPNbot) |
+| 10 | **@addvless_bot** | 🎁 3 дня бесплатно | `VLESS Reality, Trojan` | от 99 ₽/мес | [Протестировать](https://t.me/addvless_bot) |
+| 11 | **@Adrenaline_VPN_bot** | 🎁 2 дня бесплатно | `VLESS, Reality, Trojan` | от 150 ₽/мес | [Протестировать](https://t.me/Adrenaline_VPN_bot) |
+| 12 | **@adrinaliainbot** | 🎁 5 дней бесплатно | `VLESS, TUIC, Hysteria 2` | от 170 ₽/мес | [Протестировать](https://t.me/adrinaliainbot) |
+| 13 | **@AegisVPN_bot** | 🎁 5 дней бесплатно | `WireGuard, Outline` | от 170 ₽/мес | [Протестировать](https://t.me/AegisVPN_bot) |
+| 14 | **@AegisVPN_Robot** | 🎁 5 дней бесплатно | `VLESS Reality, VMess` | от 170 ₽/мес | [Протестировать](https://t.me/AegisVPN_Robot) |
+| 15 | **@Aether_VPN_bot** | 🎁 3 дня бесплатно | `VLESS, TUIC, Hysteria 2` | от 210 ₽/мес | [Протестировать](https://t.me/Aether_VPN_bot) |
 
 *👉 Полный список из 253 сервисов с триалом смотрите в разделе «🎁 Бесплатный тест» бота [@vpnhab_bot](https://t.me/vpnhab_bot?start=github_trial).*
 
@@ -103,7 +100,6 @@
 
 | # | Название бота | Протоколы | Бесплатный тест | Стоимость | Ссылка |
 | :-: | :--- | :--- | :--- | :--- | :--- |
-
 | 1 | **⚡️ RedCat VPN** | `VLESS, Reality, Trojan` | 🎁 3 дня бесплатно | от 120 ₽/мес | [Перейти](https://t.me/example_redcat_bot?start=hub) |
 | 2 | **🛡 IronShield VPN** | `ShadowSocks 2022, WireGuard` | Нет | от 210 ₽/мес | [Перейти](https://t.me/example_ironshield_bot?start=hub) |
 | 3 | **🚀 HyperSpeed 4K** | `VLESS Reality, TUIC, Hysteria 2` | 🎁 24 часа тест | от 150 ₽/мес | [Перейти](https://t.me/example_hyperspeed_bot?start=hub) |
@@ -428,21 +424,26 @@
 Большинство современных VPN-ботов работают по удобной схеме подключения через готовые конфигурации:
 
 ### Шаг 1: Установите клиентское приложение
+
 В зависимости от вашего устройства установите бесплатное приложение для работы с протоколами VLESS / Reality / Shadowsocks:
-* **iOS (iPhone, iPad):** **Happ**, **Streisand**, **V2Box**, **Shadowrocket**, **FoXray**.
-* **Android:** **v2rayNG**, **Happ**, **NekoBox**, **Clash Meta**.
-* **Windows:** **v2rayN**, **Nekoray**, **Husi**, **Happ**.
-* **macOS:** **V2Box**, **Streisand**, **Happ**, **FoXray**.
-* **Android TV / Приставки:** **v2rayNG**, **NekoBox**.
+
+- **iOS (iPhone, iPad):** **Happ**, **Streisand**, **V2Box**, **Shadowrocket**, **FoXray**
+- **Android:** **v2rayNG**, **Happ**, **NekoBox**, **Clash Meta**
+- **Windows:** **v2rayN**, **Nekoray**, **Husi**, **Happ**
+- **macOS:** **V2Box**, **Streisand**, **Happ**, **FoXray**
+- **Android TV / Приставки:** **v2rayNG**, **NekoBox**
 
 ### Шаг 2: Получите ключ в боте
+
 1. Запустите выбранного бота (или выберите через **[@vpnhab_bot](https://t.me/vpnhab_bot?start=github)**).
-2. Нажмите «Подключить» / «Бесплатный тест».
+2. Нажмите кнопку «Подключить» или «Бесплатный тест».
 3. Бот пришлет специальную ссылку-ключ (начинается на `vless://`, `ss://` или `vmess://`) либо кнопку автоматического импорта.
 
 ### Шаг 3: Вставьте ключ и включите VPN
-* Скопируйте ключ из бота и откройте установленное приложение — большинство клиентов автоматически распознают ключ из буфера обмена и предложат добавить сервер.
-* Нажмите кнопку подключения (Connect). Готово!
+
+1. Скопируйте ключ из бота и откройте установленное приложение.
+2. Большинство клиентов автоматически распознают ключ из буфера обмена и предложат добавить сервер.
+3. Нажмите кнопку подключения (**Connect**). Готово!
 
 ---
 
